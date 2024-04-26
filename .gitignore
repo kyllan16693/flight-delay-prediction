@@ -1,2 +1,5 @@
 /data/preprocessed_df.csv
+/data/df_nums.csv
 .DS_Store
+best_params*.json
+*.tex

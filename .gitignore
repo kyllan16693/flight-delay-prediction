@@ -2,3 +2,4 @@
 /data/df_nums.csv
 .DS_Store
 best_params*.json
+*.tex
